@@ -15,31 +15,43 @@ It helps businesses understand demand fluctuations, stock availability, and pote
 
 ## Steps followed 
 
-- Step 1: Loaded dataset into Power BI Desktop (CSV file)
+- **Step 1: Data Preparation using SQL**
+  - Started with raw dataset in Microsoft SQL Server
+  - Performed data cleaning and transformations (handling inconsistencies, formatting columns)
+  - Created required views (EMV) using SQL Workbench for structured analysis
 
-- Step 2: Opened Power Query Editor and enabled:
-  - Column distribution  
-  - Column quality  
-  - Column profile  
+- **Step 2: Data Storage & Structuring**
+  - Loaded the processed data into SQL Database
+  - Ensured proper schema design and relationships
+  - Verified data consistency and accuracy after transformations
 
-- Step 3: Cleaned data and handled missing values
+- **Step 3: Connecting Power BI with SQL**
+  - Installed SQL Server connector
+  - Connected Power BI to SQL Database
+  - Imported required tables and views into Power BI
 
-- Step 4: Created calculated measures for:
-  - Profit/Loss  
-  - Demand  
-  - Availability  
+- **Step 4: Data Modeling in Power BI**
+  - Created relationships between tables
+  - Built calculated columns and measures using DAX
+  - Structured data model for efficient reporting
 
-- Step 5: Built KPI cards:
-  - Total Profit  
-  - Total Loss  
-  - Average Daily Loss  
-  - Average Demand per Day  
-  - Average Availability per Day  
-  - Total Supply Shortage  
+- **Step 5: Data Visualization**
+  - Designed interactive dashboards using Power BI
+  - Created key visuals:
+    - KPI Cards (Profit, Loss, Demand, Availability)
+    - Line Charts & Trend Analysis
+    - Bar Charts for comparison
+    - Slicers for filtering and interactivity
 
-- Step 6: Designed dashboard layout with modern UI
+- **Step 6: Dashboard Design**
+  - Applied modern UI layout and theme
+  - Ensured clear data storytelling and readability
+  - Organized visuals for business insights
 
-- Step 7: Published report to Power BI Service
+- **Step 7: Deployment & Sharing**
+  - Published report to Power BI Service
+  - Created workspace for project management
+  - Set up scheduled data refresh
 
 ---
 
