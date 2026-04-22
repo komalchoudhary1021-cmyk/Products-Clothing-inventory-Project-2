@@ -1,4 +1,4 @@
-# Mens Clothing Inventory & Demand Analysis Dashboard
+# Product's Inventory & Demand Analysis Dashboard
 
 ### Dashboard Link
 Not publicly available (restricted Power BI access)
@@ -7,7 +7,7 @@ Not publicly available (restricted Power BI access)
 
 ## Problem Statement
 
-This dashboard analyzes men's clothing inventory, demand, and supply patterns to identify inefficiencies and optimize business performance.  
+This dashboard analyzes Product's clothing inventory, demand, and supply patterns to identify inefficiencies and optimize business performance.  
 
 It helps businesses understand demand fluctuations, stock availability, and potential losses due to supply shortages.
 
